@@ -15,7 +15,7 @@ const Login = () => {
       <div className="w-full max-w-md space-y-6">
         {/* Logo/Brand */}
         <div className="text-center space-y-2">
-          <h1 className="text-3xl font-bold tracking-tight">AI Interview Buddy</h1>
+          <h1 className="text-3xl font-bold tracking-tight">SKILL UP BUDDY</h1>
           <p className="text-muted-foreground">Your AI-powered interview preparation platform</p>
         </div>
 

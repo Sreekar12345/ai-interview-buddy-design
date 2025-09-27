@@ -23,7 +23,7 @@ const Navigation = () => {
         {/* Logo */}
         <Link to="/dashboard" className="flex items-center space-x-2">
           <Brain className="h-6 w-6 text-primary" />
-          <span className="font-bold text-lg">AI Interview Buddy</span>
+          <span className="font-bold text-lg">SKILL UP BUDDY</span>
         </Link>
 
         {/* Desktop Navigation */}
@@ -53,7 +53,7 @@ const Navigation = () => {
             <nav className="flex flex-col space-y-4 mt-8">
               <Link to="/dashboard" className="flex items-center space-x-2 mb-8">
                 <Brain className="h-6 w-6 text-primary" />
-                <span className="font-bold text-lg">AI Interview Buddy</span>
+                <span className="font-bold text-lg">SKILL UP BUDDY</span>
               </Link>
               
               {navItems.map((item) => (
